@@ -1,5 +1,11 @@
 # ebook-tools-sandbox
 
+## How to use
+```sh
+make -C captn3m0/google-sre-ebook build
+docker-compose run --rm epr epr captn3m0/google-sre-ebook/google-the-site-reliability-workbook.epub
+```
+
 ## GitHub Projects
 * https://github.com/w3c/epubcheck
 * https://github.com/TryGhost/Ghost
