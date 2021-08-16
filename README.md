@@ -9,6 +9,9 @@
 * https://github.com/captn3m0/google-sre-ebook
 * https://deepnote.com/
 
+## Links
+* https://captnemo.in/ebooks/
+
 ## `apt-cache search`
 ```sh
 $ cat <(apt-cache search epub) <(apt-cache search ebook) | sort | uniq
