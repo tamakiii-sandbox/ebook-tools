@@ -2,3 +2,5 @@ version: "3.8"
 services:
   debian:
     image: debian:10.10
+    volumes:
+      - .:/local/ebook-tools-sandbox
